@@ -25,7 +25,7 @@ suggestion_order is used to sort dialogs has same 'prev'.
 
 ### unreal.tickhandler(interval, name)
 ```
-interval unit is second.
+interval is how many Minecraft ticks run one time.
 
 name must be Global unique, Use your unmod name as prefix.
 ```
